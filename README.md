@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**HarsshitSri/HarsshitSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate with a growing interest in backend engineering and building reliable software.
 
-Here are some ideas to get you started:
+Currently, I'm focused on mastering **Java**, **Spring Boot**, **SQL**, and **Data Structures & Algorithms** while strengthening my understanding of core computer science subjects like **DBMS**, **Operating Systems**, and **Computer Networks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend applications that emphasize clean architecture, maintainable code, and practical problem solving. Every project I build is an opportunity to learn a new concept, whether that's validation, exception handling, pagination, authentication, or database design.
+
+### Currently Learning
+
+* Java
+* Spring Boot
+* Spring Data JPA & Hibernate
+* PostgreSQL
+* REST API Design
+* JWT Authentication
+* Docker
+* Data Structures & Algorithms
+
+### Projects
+
+* **Notes API** - RESTful API featuring CRUD operations, validation, search, pagination, sorting, and global exception handling.
+* **Student Management System** - Spring Boot CRUD application demonstrating layered architecture and PostgreSQL integration.
+* **Currently Building:** Movie Booking Backend (Work in Progress)
+
+### Goals
+
+I'm working toward becoming a backend engineer capable of designing scalable APIs and production-ready applications. My current focus is writing cleaner code, understanding software design principles, and continuously improving through hands-on projects.
+
+---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
