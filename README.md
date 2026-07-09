@@ -73,13 +73,6 @@ A RESTful CRUD backend for managing student records, demonstrating clean layered
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarsshitSri&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsshitSri&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
-
----
 
 
