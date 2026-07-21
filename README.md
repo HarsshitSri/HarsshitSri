@@ -140,8 +140,8 @@ Actively seeking **Backend Developer**, **Java Developer**, and **Software Engin
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarsshitSri&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Harshit Srivastava GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarsshitSri&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarsshitSri&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&cache_seconds=1800" alt="Harshit Srivastava GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarsshitSri&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarsshitSri&theme=github-dark&hide_border=true&area=true)
