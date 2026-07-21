@@ -117,13 +117,15 @@ REST API for students, courses, and enrollments — many-to-many domain model wi
 
 ---
 
-## 💡 Engineering Focus
+## Engineering Principles
 
-- **Layered architecture** — controllers, services, repositories, DTOs, and mappers with clear boundaries
-- **Security** — Spring Security, JWT, optional OAuth2, BCrypt, RBAC, per-user data isolation
-- **Data modeling** — normalized schemas, JPA relationships, constraints, pagination, Flyway where it fits
-- **API quality** — Bean Validation, centralized errors, OpenAPI docs, automated tests
-- **Ship it** — multi-stage Docker builds, Compose, env-based config, Neon / Railway / Vercel
+- ✔ REST-first API design
+- ✔ Clean layered architecture
+- ✔ Stateless authentication
+- ✔ Testable service layer
+- ✔ Dockerized deployments
+- ✔ Production-ready configuration
+- ✔ CI-friendly project structure
 
 ---
 
