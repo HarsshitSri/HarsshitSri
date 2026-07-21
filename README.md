@@ -1,10 +1,12 @@
 # Hi, I'm Harshit Srivastava 👋
 
-Backend developer focused on building **REST APIs with Java and Spring Boot**. I enjoy designing clean layered architectures, modeling relational data, and shipping services that are documented, tested, and containerized.
+Backend developer focused on building **REST APIs with Java and Spring Boot**. I enjoy designing clean layered architectures, modeling relational data, and shipping services that are documented, tested, containerized, and deployed.
 
-- 🔭 Currently building a **Movie Booking backend** — growing it from auth + catalog toward full ticket booking and payments
+- 🔭 Recently shipped **[ShortLink](https://github.com/HarsshitSri/Url_Shortner)** — a full-stack URL shortener with JWT auth, ownership, Docker, and a live Neon → Railway → Vercel deploy
+- 🌱 Also building a **[Movie Booking backend](https://github.com/HarsshitSri/movie_backend)** — growing it from auth + catalog toward full ticket booking and payments
+- 💬 Ask me about: Spring Boot, Spring Security + JWT, REST API design, PostgreSQL, Docker, Flyway, Railway / Vercel / Neon
 
-- 💬 Ask me about: Spring Boot, Spring Data JPA, REST API design, PostgreSQL/MySQL, Docker
+🌐 **Live:** [ShortLink UI](https://url-shortner-1nyvhhqea-harsshit.vercel.app/) · [API health](https://urlshortner-production-b193.up.railway.app/actuator/health)
 
 ---
 
@@ -19,6 +21,10 @@ Backend developer focused on building **REST APIs with Java and Spring Boot**. I
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Swagger](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -26,6 +32,19 @@ Backend developer focused on building **REST APIs with Java and Spring Boot**. I
 ---
 
 ## 🚀 Featured Projects
+
+### 🔗 [ShortLink — URL Shortener](https://github.com/HarsshitSri/Url_Shortner)
+
+Resume-grade full-stack URL shortener: Spring Boot API + static UI, shipped end-to-end to the cloud.
+
+- **Auth:** email/password register & login with **JWT**; owner-scoped create / list / patch / delete
+- **Optional OAuth:** Google + GitHub (Spring OAuth2 → same JWT session)
+- **Product:** short-link redirects, metadata, soft **Gemini** safety checks, tour UI, dark/light theme
+- **Data:** **PostgreSQL** + **Flyway** migrations (`users`, ownership, OAuth provider fields)
+- **Ops:** multi-stage **Docker** images + Compose; deploy templates for **Neon** (DB), **Railway** (API), **Vercel** (UI)
+- **Live:** [UI](https://url-shortner-1nyvhhqea-harsshit.vercel.app/) · [API](https://urlshortner-production-b193.up.railway.app/) · [Health](https://urlshortner-production-b193.up.railway.app/actuator/health)
+
+`Java 21` `Spring Boot 3.4` `Spring Security` `JWT` `OAuth2` `PostgreSQL` `Flyway` `Docker` `Neon` `Railway` `Vercel`
 
 ### 🎬 [Movie Booking Backend](https://github.com/HarsshitSri/movie_backend)
 
@@ -66,13 +85,9 @@ A RESTful CRUD backend for managing student records, demonstrating clean layered
 ## 🧩 What I Focus On
 
 - **Layered architecture** — controllers, services, repositories, DTOs, and mappers with clear boundaries
-- **Security** — Spring Security, JWT-based stateless auth, BCrypt hashing, per-user data isolation
-- **Data modeling** — normalized relational schemas, JPA relationships, constraints, and pagination
-- **API quality** — bean validation, centralized error handling, consistent error responses, OpenAPI docs
-- **DevOps basics** — multi-stage Docker builds, Docker Compose, externalized configuration via env vars
+- **Security** — Spring Security, JWT-based stateless auth, optional OAuth2, BCrypt hashing, per-user data isolation
+- **Data modeling** — normalized relational schemas, Flyway migrations, JPA relationships, constraints, and pagination
+- **API quality** — bean validation, centralized error handling, consistent response envelopes, OpenAPI docs
+- **Ship it** — multi-stage Docker builds, Compose for local stacks, env-based config, cloud deploy (Neon / Railway / Vercel)
 
 ---
-
-
-
-
