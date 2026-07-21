@@ -132,6 +132,8 @@ REST API for students, courses, and enrollments — many-to-many domain model wi
 ## 📫 Connect
 
 - GitHub: [HarsshitSri](https://github.com/HarsshitSri)
+- LinkedIn: [harsshit](https://www.linkedin.com/in/harsshit)
+- Email: [harsshitsri@proton.me](mailto:harsshitsri@proton.me)
 
 Actively seeking **Backend Developer**, **Java Developer**, and **Software Engineer** roles where I can build reliable, scalable backend systems.
 
